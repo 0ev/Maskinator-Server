@@ -1,2 +1,2 @@
-# face_server
-face server for face detection
+# Maskinator Server
+A face server for saving and posting faces detected without masks
